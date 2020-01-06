@@ -1,0 +1,5 @@
+tensorflow==2.0.0
+tensorflow-datasets==1.3.0
+tensorflow-estimator==2.0.1
+tensorflow-estimator-2.0-preview==1.14.0.dev2019091101
+tensorflow-metadata==0.15.1

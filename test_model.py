@@ -1,7 +1,7 @@
 import tensorflow_datasets as tfds
 import tensorflow as tf
 
-model = tf.keras.models.load_model('dr_deploy/model/my_model.h5')
+model = tf.keras.models.load_model('dr_deploy/model/custom_model.h5')
 
 model.summary()
 

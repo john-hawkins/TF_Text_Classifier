@@ -44,6 +44,6 @@ test_loss, test_acc = model.evaluate(test_dataset)
 print('Test Loss: {}'.format(test_loss))
 print('Test Accuracy: {}'.format(test_acc))
 
-model.save('dr_deploy/model/my_model.h5') 
+model.save('dr_deploy/model/custom_model.h5') 
 encoder.save_to_file('dr_deploy/model/encoder.dat')
 

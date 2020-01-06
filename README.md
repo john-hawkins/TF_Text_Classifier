@@ -23,4 +23,10 @@ Now go into the [dr_deploy](dr_deploy) directory and create the archives for bot
 These two archives need to be uploaded into the DataRobot MLOps interface to create
 the deployment.
 
+You can also use the [RUN Script](RUN.sh) to execute all of these commands.
+
+```
+./RUN/.sh > log.txt
+```
+
 
